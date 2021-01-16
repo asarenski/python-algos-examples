@@ -1,2 +1,2 @@
 # python-algos-examples
-practice repo for algos and ds in python
+This is a practice repo for algorithms and data structures in python.
